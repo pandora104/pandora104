@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Abhishek Sharma 👋
 
-<!--
-**pandora104/pandora104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm passionate about working with data, cleaning datasets, and transforming raw information into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- Excel
+- SQL (MySQL)
+- Power BI
+- Power Query
+- DAX
+
+### 📊 Projects
+- Sales & Profit Dashboard – Excel
+
+### 🌱 Currently Learning
+- Advanced SQL
+- DAX
+- Python for Data Analytics
+
+### 🎯 Career Goal
+Aspiring to become a Data Analyst and solve real-world business problems through data.
+
+### 🤝 Connect With Me
+- LinkedIn: Add your LinkedIn profile URL here
+- www.linkedin.com/in/abhishek-sharma-404609334
+
