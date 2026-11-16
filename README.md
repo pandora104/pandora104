@@ -23,5 +23,5 @@ I'm passionate about working with data, cleaning datasets, and transforming raw 
 Aspiring to become a Data Analyst and solve real-world business problems through data.
 
 ### 🤝 Connect With Me
-- LinkedIn: [Connect With Me] (www.linkedin.com/in/abhishek-sharma-404609334)
+- LinkedIn: (www.linkedin.com/in/abhishek-sharma-404609334)
 
